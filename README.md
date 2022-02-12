@@ -17,14 +17,14 @@
                 <a href="#contacts">Контакты</a>
             </nav>
             <div class="center"><h2 id="price" style="color:darkblue">Фирменные роллы</h2>
-            <img src="https://сушибанзай.рф/upload/resize_cache/iblock/2e5/280_190_1/2e53ace39e3e7dcaa4fc64f960b4eb63.jpg"/>
-            <p><b>Ролл Киото - 129ГРН(300ГР)</b></p>
-            <img src="https://сушибанзай.рф/upload/resize_cache/iblock/da9/280_190_1/da9091cf0e3a7275c7eab5e05567da02.jpg"/>
-            <p><b>Ролл Шахматы - 129ГРН(300ГР)</b></p>
-            <img src="https://сушибанзай.рф/upload/resize_cache/iblock/645/280_190_1/64573ded56b59a17e24ef2521001aa03.jpg"/>
-            <p><b>Ролл Окинава - 129ГРН(300ГР)</b></p>
-            <img src="https://сушибанзай.рф/upload/resize_cache/iblock/ebc/280_190_1/ebc1bae43e9f9470b137c1943af40caf.jpg"/>
-            <p><b>Ролл Сакура - 129ГРН(300ГР)</b></p>
+            <img src="https://vsem-edu-oblako.ru/upload/store/merchant479/small/eb4d4a49-2267-4217-a24e-7fd6e3223675.jpg/>
+                    <p><b>Ролл Калифорния - 129ГРН(319ГР)</b></p>
+                    <img src="https://vsem-edu-oblako.ru/upload/store/merchant479/small/4e70dad3-a86a-4a4c-82e0-9f3daf02a9b4.jpg"/>
+                    <p><b>Ролл Кани эби - 129ГРН(319ГР)</b></p>
+                    <img src="https://vsem-edu-oblako.ru/upload/store/merchant479/small/b1b06854-355e-4d3c-9e27-cdeb7a8c1a22.jpg"/>
+                    <p><b>Ролл Киото - 129ГРН(329ГР)</b></p>
+                    <img src="https://vsem-edu-oblako.ru/upload/store/merchant479/small/aad608d7-62ae-475b-9059-1426c92c080c.jpg"/>
+                    <p><b>Ролл Кунсей - 129ГРН(329ГР)</b></p>
             </div>
             <table>
                 <td>
