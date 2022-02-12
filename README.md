@@ -29,7 +29,7 @@
             </div>
             <table>
                 <td>
-                <a class="tabl" href="second">Еще</a>
+                <a class="tabl" href="2cc_code.html">Еще</a>
                 </td>
             </table>
             <h2 id="discount" style="color:darkblue">Сезонное предложение</h2>
