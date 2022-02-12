@@ -53,7 +53,7 @@
                 <td><img class="im" src="https://vsem-edu-oblako.ru/upload/store/merchant479/small/2fd5d9ef-4a19-461e-8dc9-1a52136b1995.jpg"/><br><b>Сет №2 - 389ГРН(1099ГР)</b></td>
                 </table>
                 <table>
-                <td><img class="im" src="https://vsem-edu-oblako.ru/upload/store/merchant479/small/e6a7d201-563b-436d-9d7e-c7895992e040.jpg"/><br><b>Сет №3 - 499ГРН(1300ГР)</b></td>
+                <td><img src="https://vsem-edu-oblako.ru/upload/store/merchant479/small/e6a7d201-563b-436d-9d7e-c7895992e040.jpg"/><br><b>Сет №3 - 499ГРН(1300ГР)</b></td>
                 <td><img class="im" src="https://vsem-edu-oblako.ru/upload/store/merchant479/small/b91defa4-061d-46cc-a801-ecd21bd29051.jpg"/><br><b>Сет №4 - 539ГРН(1350ГР)</b></td>
                 </table>
             <h2 id="about_us" style="color:darkblue">О компании</h2>
