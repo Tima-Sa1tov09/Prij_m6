@@ -49,12 +49,12 @@
 
             <h2 id="wholesale" style="color:darkblue">Сеты</h2>
             <table>
-                <td><img class="im" src="https://сушибанзай.рф/upload/resize_cache/iblock/7ed/280_190_1/7edef1ffe34871afa436ab9a7dd3d776.jpg"/><br><b>Сет №1 - 299ГРН(800ГР)</b></td>
-                <td><img class="im" src="https://сушибанзай.рф/upload/resize_cache/iblock/44f/280_190_1/44f83861207ccd56802f1428d59863bc.jpg"/><br><b>Сет №2 - 299ГРН(800ГР)</b></td>
+                <td><img class="im" src="https://vsem-edu-oblako.ru/upload/store/merchant479/small/0f31b4d9-243b-4e01-bd0f-43f91a8c69ed.jpg"/><br><b>Сет №1 - 499ГРН(1499ГР)</b></td>
+                <td><img class="im" src="https://vsem-edu-oblako.ru/upload/store/merchant479/small/2fd5d9ef-4a19-461e-8dc9-1a52136b1995.jpg"/><br><b>Сет №2 - 389ГРН(1099ГР)</b></td>
                 </table>
                 <table>
-                <td><img class="im" src="https://сушибанзай.рф/upload/resize_cache/iblock/c67/280_190_1/c67e8c55b141f67dbfdefe39bab53186.jpg"/><br><b>Сет №3 - 499ГРН(1300ГР)</b></td>
-                <td><img class="im" src="https://сушибанзай.рф/upload/resize_cache/iblock/a78/280_190_1/a78b45bd0f14ccd513f864b9533ee11c.jpg"/><br><b>Сет №4 - 539ГРН(1350ГР)</b></td>
+                <td><img class="im" src="https://vsem-edu-oblako.ru/upload/store/merchant479/small/e6a7d201-563b-436d-9d7e-c7895992e040.jpg"/><br><b>Сет №3 - 499ГРН(1300ГР)</b></td>
+                <td><img class="im" src="https://vsem-edu-oblako.ru/upload/store/merchant479/small/b91defa4-061d-46cc-a801-ecd21bd29051.jpg"/><br><b>Сет №4 - 539ГРН(1350ГР)</b></td>
                 </table>
             <h2 id="about_us" style="color:darkblue">О компании</h2>
             <p>Наша история началась с обычной доставки, открывшейся в 2019 году. Тогда мы предлагали только роллы с маленьким меню.</p>
