@@ -1,8 +1,7 @@
 <html>
     <head>
-        <link rel="stylesheet" href="cc1.css"/>
+        <link rel="stylesheet" href="cc.css"/>
         <title>Новогодние подарки</title>
-        <link rel="stylesheet" href="style.css"/>
         </head>
     <body>
         <header>
