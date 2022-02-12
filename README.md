@@ -17,7 +17,7 @@
                 <a href="#contacts">Контакты</a>
             </nav>
             <div class="center"><h2 id="price" style="color:darkblue">Фирменные роллы</h2>
-            <img src="https://vsem-edu-oblako.ru/upload/store/merchant479/small/eb4d4a49-2267-4217-a24e-7fd6e3223675.jpg/>
+            <img src="https://vsem-edu-oblako.ru/upload/store/merchant479/small/eb4d4a49-2267-4217-a24e-7fd6e3223675.jpg"/>
                     <p><b>Ролл Калифорния - 129ГРН(319ГР)</b></p>
                     <img src="https://vsem-edu-oblako.ru/upload/store/merchant479/small/4e70dad3-a86a-4a4c-82e0-9f3daf02a9b4.jpg"/>
                     <p><b>Ролл Кани эби - 129ГРН(319ГР)</b></p>
